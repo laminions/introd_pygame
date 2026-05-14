@@ -11,7 +11,7 @@ ventana = pygame.display.set_mode((400,400))
 pygame.display.set_caption("pygame heidy")
 
 # definir colores
-azul = (0,0,255)
+azul = (0,255,25)
 rojo = (255,0,0)
 verde = (0,255,0)
 morado = (255,255,0)
